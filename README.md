@@ -22,3 +22,7 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 运行环境：
+Node version:v14.15.0
+Npm version:6.14.8
